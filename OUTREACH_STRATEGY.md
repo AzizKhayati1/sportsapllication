@@ -123,7 +123,7 @@ Probability reflects: does the club have an in-house data team, does it hire jun
 1. Search LinkedIn for `"<Club name>" AND (data OR analytics OR "performance" OR "video coordinator")`.
 2. Pick **two people**: the head of the department (decision-maker) and someone 1–3 years in (who will actually read your email and pass it on).
 3. Find their email: Hunter.io domain search, then the pattern (e.g. `firstname.lastname@club.com`), then **verify with Hunter's verifier**. Don't send if the address isn't verified.
-4. Send a LinkedIn connection request with a short note (template E), **then** the email 2–3 days later.
+4. Send a LinkedIn connection request with a short note (the LinkedIn note in APPLICATION_EMAILS.md), **then** the email 2–3 days later.
 
 Track everything in a sheet with these columns: `Club | Tier | Country | Language | Person | Role | Email (verified?) | LinkedIn | Date sent | Follow-up 1 | Follow-up 2 | Status | Notes`.
 
@@ -168,131 +168,9 @@ Sentence for your emails: *"ESPRIT provides the internship agreement, and I will
 
 ---
 
-## 7. Email templates (filled in from your CV)
+## 7. Application emails
 
-Keep cold emails **under 150 words**. Replace only the `[club-specific]` parts. **Until the project is published, use the "in progress" sentence; afterwards, swap in the demo link.**
-
-### A. Cold email: football club data / performance department (English)
-
-**Subject:** Former Tunisia national-team athlete, data science intern (Jan 2027) for [Club]
-
-> Hi [First name],
->
-> I'm Aziz Khayati, a final-year Data Science engineering student at ESPRIT (Tunis) and a former Tunisia national-team basketball player (3 years).
->
-> [Club-specific line, e.g. "Brentford's use of data in recruitment is the reason I'm writing."] This summer at Sopra HR Software, I built a prediction pipeline from 6 messy data sources plus a scenario simulator for decision-makers. The same approach applies to player availability and load planning. I'm now building [project name]: [demo link / "demo available early November"].
->
-> I'm looking for a **6-month end-of-studies internship from January 2027**. ESPRIT provides the internship agreement, and I'll handle the visa myself.
->
-> Would you have 15 minutes in the next two weeks?
->
-> Best regards,
-> Aziz Khayati
-> +216 27 888 536 · linkedin.com/in/khayati-mohamed-aziz1 · github.com/azizkhayati1
-
-### B. Cold email: basketball club (to video coordinator / performance staff)
-
-**Subject:** Former Tunisia NT player: shot-form analysis from training video, [Club]
-
-> Hi [First name],
->
-> I played basketball for 8 years, including 3 with Tunisia's national team, and I'm now a final-year Data Science engineer at ESPRIT.
->
-> I'm building a tool that measures shooting mechanics (release angle, elbow alignment, timing and consistency across reps) from ordinary training video: [demo link / "first results in early November"]. For a video staff, it means shot-form reports on every player after each session, with no manual tagging.
->
-> I'm looking for a 6-month internship from January 2027 and would love to build this with [Club]'s staff, on your footage. ESPRIT provides the internship agreement, and I'll handle the visa myself.
->
-> Could I send you a sample report?
->
-> Best regards,
-> Aziz Khayati
-> +216 27 888 536 · linkedin.com/in/khayati-mohamed-aziz1 · github.com/azizkhayati1
-
-### C. French: clubs and companies in France, Belgium, Switzerland, Monaco
-
-**Objet :** Stage de fin d'études Data (janv. 2027) : ancien international tunisien de basket – [Club]
-
-> Bonjour [Prénom],
->
-> Je m'appelle Aziz Khayati, élève ingénieur en dernière année à ESPRIT (spécialité Data Science) et ancien joueur de l'équipe nationale tunisienne de basket (3 ans).
->
-> [Phrase spécifique : « L'approche data du TFC en recrutement est la raison de mon message. »] Cet été, chez Sopra HR Software, j'ai construit un pipeline de prédiction à partir de six sources hétérogènes, ainsi qu'un simulateur de scénarios pour aider à la décision. C'est la même logique que la prédiction de disponibilité des joueurs ou la planification de la charge. Je développe actuellement [nom du projet] : [lien démo / « démo disponible début novembre »].
->
-> Je recherche un **stage de fin d'études de 6 mois à partir de janvier 2027**. ESPRIT fournit la convention de stage et je me charge moi-même de la demande de visa.
->
-> Auriez-vous 15 minutes dans les deux prochaines semaines ?
->
-> Cordialement,
-> Mohamed Aziz Khayati
-> +216 27 888 536 · linkedin.com/in/khayati-mohamed-aziz1 · github.com/azizkhayati1
-
-### D. German: clubs and companies in Germany and Austria
-
-> Have a German speaker check this before sending (your level is B1/B2). Better a short, correct German email than a long one with mistakes. Replying in English afterwards is fine.
-
-**Betreff:** Pflichtpraktikum Data Science (ab Januar 2027) – ehemaliger tunesischer Basketball-Nationalspieler – [Verein]
-
-> Hallo [Vorname],
->
-> mein Name ist Aziz Khayati. Ich studiere im letzten Jahr Informatik (Schwerpunkt Data Science) an der ESPRIT in Tunis und habe drei Jahre in der tunesischen Basketball-Nationalmannschaft gespielt.
->
-> Bei Sopra HR Software habe ich eine Vorhersage-Pipeline aus sechs heterogenen Datenquellen und einen Szenario-Simulator für Entscheidungsträger entwickelt. Derselbe Ansatz lässt sich auf Belastungssteuerung und Verletzungsprävention übertragen. Aktuelles Projekt: [Projektname] – [Link].
->
-> Ich suche ein **sechsmonatiges Pflichtpraktikum ab Januar 2027**. Die ESPRIT stellt den Praktikumsvertrag aus, und um das Visum kümmere ich mich selbst.
->
-> Hätten Sie in den nächsten zwei Wochen 15 Minuten Zeit? Gerne auch auf Englisch.
->
-> Viele Grüße
-> Mohamed Aziz Khayati
-> +216 27 888 536 · linkedin.com/in/khayati-mohamed-aziz1 · github.com/azizkhayati1
-
-### E. Sports-tech company (SkillCorner, Kinexon, Hudl…): open application
-
-**Subject:** Data Science intern (6 months, from Jan 2027): athlete + engineer
-
-> Hi [First name],
->
-> [Company]'s [product, e.g. "broadcast tracking data"] is exactly the work I want to do. I'm a final-year Data Science engineering student at ESPRIT and a former Tunisia national-team basketball player.
->
-> Relevant experience: at Sopra HR Software, I turned 6 heterogeneous sources into validated model inputs, with schema checks, per-value confidence and 350 automated tests, and shipped a scenario simulator in 2 months. I've also built forecasting models (XGBoost, LSTM, Prophet, ARIMA). Sports project: [project + link].
->
-> I'm looking for a 6-month internship from January 2027 in [city]. ESPRIT provides the internship agreement, and I'll handle the visa myself. CV attached.
->
-> Would you be open to a short call?
->
-> Best regards,
-> Aziz Khayati
-
-### F. LinkedIn connection note (≤ 300 characters)
-
-> Hi [Name], former Tunisia national-team basketball player and final-year Data Science engineer. I'm building performance-analysis tools and looking for a Jan 2027 internship in sports data. I really admire [Club]'s work on [X] and would love to connect.
-
-French: *Bonjour [Prénom], ancien international tunisien de basket et élève ingénieur Data Science en dernière année. Je développe des outils d'analyse de la performance et je cherche un stage dès janvier 2027. J'admire le travail de [Club] sur [X] et serais ravi d'échanger.*
-
-### G. Follow-up 1 (about 7 days later, reply in the same thread)
-
-> Hi [First name], a quick follow-up with something concrete: I've just published [project name] ([demo link]). In short: [one result, e.g. "my release angle drops 4° on missed shots late in a session"]. Happy to adapt it to [Club]'s data.
-> Best, Aziz
-
-### H. Follow-up 2 (about 14 days later, final)
-
-> Hi [First name], I know this period is busy, so this is my last note. If a January 2027 intern could help [department], I'd love to talk. Otherwise, could you point me to the right colleague?
-> Thanks again, Aziz
-
-### I. Cover letter for a posted job (English, about 1 page)
-
-> Dear [Hiring Manager / Head of Performance],
->
-> I'm applying for the **[Role]** at [Club]. I spent 8 years in basketball, including 3 with Tunisia's national team, and I'm now finishing my engineering degree in Data Science at ESPRIT. I know the performance environment from the inside, and I want to build the tools that support it.
->
-> This summer at Sopra HR Software, I turned six heterogeneous sources (CSVs, PDFs, scanned documents) into validated inputs for a prediction model, and built a scenario simulator and KPI dashboard so decision-makers could test hypotheses before acting. I treated data reliability as the priority: of 143 documents tested, all 17 cases of missing data were flagged rather than guessed. The work was delivered in two months, in direct contact with end users. That is the same discipline a performance department needs with tracking, GPS and wellness data.
->
-> I've also built forecasting models (ARIMA, Prophet, LSTM, XGBoost) and an agent-based simulation project, and I'm currently building [sports project + link]. Just as important, I can explain models to coaches and players in their own language, because I used to be one of those players.
->
-> I'm available for a 6-month internship from January 2027. ESPRIT provides the internship agreement, and I'll handle the visa application myself. I'd welcome the chance to discuss how I could support [Club]'s [specific goal from the posting].
->
-> Kind regards,
-> Mohamed Aziz Khayati
+The finished emails, one per organisation with no placeholders, are in [`APPLICATION_EMAILS.md`](APPLICATION_EMAILS.md). Each one uses PlayerLoad-Risk (https://playerinjury.netlify.app) as the proof project, and each lists where to send it and who to find. The same emails, with copy buttons, are in section 07 of the playbook artifact.
 
 ---
 
